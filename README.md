@@ -1,7 +1,7 @@
 ### Hi , I'm Siddhant Gore
 
 ### Computer Science Engineering Student
-- 🌱 I'm currently exploring web application development and security
+- 🌱 I'm currently exploring web application development and web app security
 
 ### Languages & Tools : C / C++ / HTML / CSS / Javascript / Python / Kali Linux / BurpSuite / Maltego / GitHub / VS Code
 
