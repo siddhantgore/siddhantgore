@@ -3,7 +3,7 @@
 ### Computer Science Engineering Student
 - 🌱 I'm currently exploring web application development and web app security
 
-### Languages,Tools & Frameworks : C / C++ / HTML / CSS / Javascript / Python / Kali Linux / BurpSuite / Maltego / GitHub / VS Code /React / Express / Node.js
+### Languages,Tools & Frameworks : C / C++ / HTML / CSS / Javascript / Python / Kali Linux / BurpSuite / Maltego / GitHub / VS Code / React / Express / Node.js
 
 ### Feel Free To Reach Out : siddhantgore111@gmail.com
 
