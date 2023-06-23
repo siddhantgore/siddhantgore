@@ -1,9 +1,9 @@
 ### Hi , I'm Siddhant Gore
 
-### Computer Science Engineering Student
+### Full Stack ML Engineer and Cyber Security Enthusiastic
 - 🌱 I'm currently exploring web application development, web app security and data science
 
-### Languages,Tools,DBS & Frameworks : C / C++ / HTML / CSS / Javascript / Python / Kali Linux / BurpSuite / Maltego / GitHub / VS Code / SQL / MongoDB / React / Express / Node.js
+### Languages,Tools,DBS & Frameworks : C / C++ / HTML / CSS / Javascript / Python / Tensorflow / PyTorch / Kali Linux / BurpSuite / Maltego / GitHub / VS Code / SQL / MongoDB / React / Express / Node.js
 
 ## 📈 My GitHub Stats:
 
